@@ -1,0 +1,94 @@
+:root {
+    --header: #63B8FF;
+}
+
+html,
+body {
+    margin: 5px auto;
+    text-align: center;
+    padding: 0;
+    font-size: 16px;
+    width: 1024px;
+    line-height: 20px;
+    height: 20px;
+    font-family: 微软雅黑
+}
+
+table {
+    width: 1000px;
+}
+
+.main {
+    width: 1000px;
+}
+
+.topTitle {
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.basediv {
+    width: 1000px;
+    border: 1px solid var(--header);
+    border-right: none;
+    border-left: none;
+}
+
+.basediv table>td {
+    text-align: right;
+    width: 50px;
+    border: 1px solid var(--header);
+}
+
+.basediv .header {
+    font-size: 18px;
+    font-weight: bold;
+    background-color: var(--header);
+    text-align: left;
+    padding-left: 20px;
+    line-height: 30px;
+    background: -webkit-linear-gradient(left, var(--header), #fff);
+    /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(right, var(--header), #fff);
+    /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(right, var(--header), #fff);
+    /* Firefox 3.6 - 15 */
+    background: linear-gradient(to right, var(--header), #fff);
+    /* 标准的语法 */
+}
+
+li {
+    list-style: none;
+    text-align: left;
+    line-height: 25px;
+    height: 25px;
+}
+
+.exp {
+    width: 1000px;
+    border-top: none;
+}
+
+.exp td {
+    text-align: left;
+    padding-left: 25px;
+    line-height: 30px;
+    height: 30px;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.exp td.company {
+    font-weight: bold;
+}
+
+.exp .mainrespons {
+    width: 100px;
+    text-align: left;
+    padding-left: 30px;
+    /* 标准的语法 */
+}
+
+.exp .mainrespons span {
+    text-align: left;
+    float: left;
+}
