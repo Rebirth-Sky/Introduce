@@ -18,7 +18,7 @@ var app = new Vue({
         experiences:[
         {
         	company:'君安信科技有限公司',
-        	times:'2014年09月-2019年04月',
+        	times:'2014年09月-2019年06月',
         	industry:'互联网金融',
         	city:'北京',
         	job:'.NET高级开发工程师',
