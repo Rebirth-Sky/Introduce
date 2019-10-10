@@ -11,7 +11,8 @@ var app = new Vue({
         skills:[
         	'熟练使用.NET进行项目开发,有多年的B/S,C/S项目经验；',
         	'熟练使用jQuery、AJAX 、javascript模版开发实现前端功能；',
-        	'熟练使用SQL Server、Oracle等常用数据库编写存储过程及函数；',
+        	'熟练使用SQL Server、Oracle等常用数据库；',
+        	'熟练掌握Highchart,Echarts等前端图表脚本',
         	'熟悉ES6规范，对前端新技术Node.js,Vue.js有一定的研究，具有较强的学习能力;',
         	'具有较强的解决问题能力，在提升用户体验这块有一定的理解。'
         ],
