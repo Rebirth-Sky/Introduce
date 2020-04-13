@@ -10,12 +10,12 @@ var app = new Vue({
         email:'zhengfei0925@qq.com',
         tel:'15210010904',
         skills:[
-        	'熟练使用.NET进行项目开发,有多年的B/S,C/S项目经验；',
-        	'熟练使用jQuery、AJAX 、javascript模版开发实现前端功能；',
-        	'熟练使用SQL Server、Oracle等常用数据库；',
-        	'熟练掌握Highchart,Echarts等前端图表脚本',
-        	'熟悉ES6规范，对前端新技术Node.js,Vue.js有一定的研究，具有较强的学习能力;',
-        	'具有较强的解决问题能力，在提升用户体验这块有一定的理解。'
+        	'熟练使用.NET及.NetCore进行项目开发,有多年的B/S,C/S项目经验',
+        	'熟练使用Div+CSS、jQuery、javascript实现前端功能',
+        	'熟练使用SQLServer、Oracl,MySQL,Mangodb等常用数据库',
+        	'熟悉ES6规范及Node、Vue、React等前端框架，具备良好的学习能力',
+        	'对微服务、docker、微信小程序有一定了解',
+        	'能够快速学习新技术并应用到实际项目。'
         ],
         experiences:[
         {
